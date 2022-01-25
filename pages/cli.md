@@ -48,7 +48,7 @@ So what is flags now. Flags are the additional identifier, that actually might r
 
 For example, `ls` has a lot of flags that you can use for.
 
-<img src="./../assets/fedora_terminal.png" width="50%"/>
+<img src="./../assets/ls.png" width="50%"/>
 
 As what it looks line on image above, `ls -l` will show all the data in current directory, complete with who owns what file, and the permissions. 
 
